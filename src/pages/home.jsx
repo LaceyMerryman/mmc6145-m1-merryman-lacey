@@ -11,11 +11,11 @@ export default function Home() {
       href: "https://merrymanlacey.wixsite.com/laceymartdesign"
     },
     {
-      title: "Project Two",
+      title: "Personal Website",
       description:
-      "",
-      tech: ["React", "Vite", "CSS"],
-      href: "https://example"
+      "During my first semester at University of Florida, we created personal websites to showcase our early abilities. Including this original webpage provides a visual update for how far my coding skills have come in comparison to viewing this website now. From HTML and CSS to React with Vite and deploying using third party apps, I couldn't have guessed how far I'd come until now.",
+      tech: ["HTML", "CSS", "GitHub"],
+      href: "https://laceymerryman.github.io/m14-hw14-merryman-lacey/"
     },
   ];
 
